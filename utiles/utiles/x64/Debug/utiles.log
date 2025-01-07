@@ -1,0 +1,20 @@
+﻿  utiles.cpp
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(325,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+D:\document\github\OOP-CPP-level-2\utiles\clsString.h(373,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utiles.cpp')
+  
+  utiles.vcxproj -> D:\document\github\OOP-CPP-level-2\utiles\x64\Debug\utiles.exe

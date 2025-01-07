@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|D:\\document\\github\\OOP-CPP-level-2\\utiles\\utiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|solutionrelative:utiles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|solutionrelative:clsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F9574E98-6A8C-44D1-A985-D3463A584C34}|utiles.vcxproj|solutionrelative:clsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsUtil.h",
+              "DocumentMoniker": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsUtil.h",
+              "RelativeDocumentMoniker": "clsUtil.h",
+              "ToolTip": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsUtil.h",
+              "RelativeToolTip": "clsUtil.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAywMEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T05:36:11.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsDate.h",
+              "DocumentMoniker": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsDate.h",
+              "RelativeDocumentMoniker": "clsDate.h",
+              "ToolTip": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\clsDate.h",
+              "RelativeToolTip": "clsDate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-19T05:34:43.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "utiles.cpp",
+              "DocumentMoniker": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\utiles.cpp",
+              "RelativeDocumentMoniker": "utiles.cpp",
+              "ToolTip": "D:\\document\\github\\OOP-CPP-level-2\\utiles\\utiles.cpp",
+              "RelativeToolTip": "utiles.cpp",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAwwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T05:26:11.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
